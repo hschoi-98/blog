@@ -16,8 +16,8 @@ Metrics Handling Server
 
 ## 📦 나의 프로젝트 히스토리
 
-Apple Care Service (Coupang)  
-SK T Cloud Game Pass (SKT)  
-HitaJimro AI platform project (HitaJimro)  
-SMART HB Admin Platform (Chunjaetext)  
-SKT Adot Project - Stock Agent, T Service (SKT)
+[Apple Care Service (Coupang)](/projects/apple-care)  
+[SK T Cloud Game Pass (SKT)](/projects/skt-cloud)  
+[HitaJimro AI platform project (HitaJimro)](/projects/hitajimro)  
+[SMART HB Admin Platform (Chunjaetext)](/projects/smart-hb)  
+[SKT Adot Project - Stock Agent, T Service (SKT)](/projects/adot)

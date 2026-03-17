@@ -1,9 +1,3 @@
----
-title: KIMBOB의 개발 블로그에 오신것을 환영합니다!
----
----
-title: KIMBOB의 개발 블로그에 오신것을 환영합니다!
----
 
 <div style="text-align:center; margin: 2rem 0">
   <img src="/profile.png" width="100" style="border-radius:50%" />

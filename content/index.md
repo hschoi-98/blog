@@ -6,15 +6,19 @@
 
 ## 🪧 Profile
 
-[Resume](blog/content/myprofile/이력서)
+[Resume](이력서.md)
 
 ## 📜 Project History
 
 [AWS 기반 스마트 홈 애플리케이션 구축](blog/content/project/AWS 기반 스마트 홈 애플리케이션 구축 프로젝트) | 2024.06 - 2025.12
 
-[시각 장애인을 위한 보조 기기 제작](blog/content/project/capstone) | 2023.09 - 2023.12
+[시각 장애인을 위한 보조 기기 제작](capstone.md) | 2023.09 - 2023.12
 
-[아르바이트 전용 업무 관리 애플리케이션 기획](blog/content/project/albatalk) | 2023.08 - 2023.11
+[아르바이트 전용 업무 관리 애플리케이션 기획](albatalk.md) | 2023.08 - 2023.11
 
-## 📚 프로젝트 히스토리Case Study
+## 📚 Case Study
+
+## 🔬 Lab&Guide
+
+## ✏️ Learning
 
